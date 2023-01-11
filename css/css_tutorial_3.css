@@ -1,0 +1,36 @@
+/* div{
+  color: red
+} */
+
+.firstDiv{
+  color: blue;
+}
+
+.secondDiv{
+  color:red;
+}
+
+#singledout{
+  color:green;
+  text-decoration: line-through;
+}
+
+/* not overwriting ids - not common at all */
+*{ 
+  color: black;
+}
+
+h3 + ul{
+  border: 4px double purple;
+}
+
+/* any anchor tag within a list */
+li a{
+  color: red;
+
+}
+
+li a[href="https://www.youtube.com"]{
+  color: blue;
+  border: 2px solid orange;
+}

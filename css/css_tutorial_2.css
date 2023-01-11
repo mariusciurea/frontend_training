@@ -1,0 +1,22 @@
+body{
+    /*background-color: gray;*/
+    background: url(https://scitechdaily.com/images/Ama-Dablam-Mountain-Nepal-Himalayas-768x512.jpg?ezimgfmt=ngcb2/notWebP)
+    /*background-repeat: no-repeat;*/
+}
+
+div{
+    background: red;
+    border-color: blue;
+    border-width: 2px;
+
+    border-style: double;
+}
+
+p{
+    color: black;
+}
+
+span{
+    background: green;
+    color: black;
+}

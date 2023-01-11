@@ -1,0 +1,1 @@
+This is a frontend training (HTML, CSS, JS)

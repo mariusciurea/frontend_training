@@ -1,0 +1,13 @@
+li{
+  color:red;
+}
+
+/* clasele sunt mai sus in ierarhie */
+.topitems{
+  color: blue;
+}
+
+/* id-urile sunt mai sus in ierarhie decat clasele si tag-urile */
+#two{
+  border: 3px solid black;
+}
